@@ -13,4 +13,3 @@ Vite: A next-generation frontend tool for building fast and modern web applicati
 HTML & CSS: Standard technologies for structuring and styling the web app.
 JavaScript: The programming language used to handle the logic and data fetching.
 
-![Screenshot (171)](https://github.com/user-attachments/assets/11679bed-9619-45a5-86fe-2d22516c61be)
